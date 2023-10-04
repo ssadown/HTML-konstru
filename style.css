@@ -4,7 +4,7 @@ html, body {
 }
 /* HEADER */
 header {
-    background: url(/images/bg.png);
+    background: url(./images/bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -240,7 +240,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(/images/bg-footer.png);
+    background: url(./images/bg-footer.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
